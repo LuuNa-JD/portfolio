@@ -6,8 +6,8 @@
 title: "Julien Denizot - Portfolio"
 description: "Développeur Python spécialisé en santé numérique"
 keywords: julien, denizot, blog, jekyll, gh-pages, kace, github, pages, portfolio, python, django, flask, javascript, vuejs, react, angular, ionic, mobile, web, developer, devops, linux, sysadmin, itil, itil4, prince2, prince2agile, scrum, agile, pmp, project, management
-baseurl:  ''
-url: https://luuna-jd.github.io/portfolio/
+baseurl:  '/portfolio'
+url: https://luuna-jd.github.io
 img_path: /static/assets/img/blog
 
 #
