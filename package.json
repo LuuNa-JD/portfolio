@@ -15,7 +15,7 @@
   "license": "MIT",
   "homepage": "https://luuna-jd.github.io/portfolio/",
   "dependencies": {
-    "@npmcli/arborist": "^4.3.1",
+    "@npmcli/arborist": "^8.0.0",
     "animate.css": "^4.1.1",
     "atob": "^2.1.2",
     "bootstrap": "^5.0.0",
