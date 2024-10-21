@@ -20,7 +20,7 @@
 
   - name: CinéSelect
     gh_user: LuuNa-JD
-    repo: CinéSelect
+    repo: cineselect
     img: /static/assets/img/landing/cineselect.jpg
     desc: "Application web de recommandation de films basée sur le modele de swipe de Tinder, développée en RoR."
 
