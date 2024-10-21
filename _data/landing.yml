@@ -1,0 +1,23 @@
+- id: about-me
+  i18n: nav.about_me
+  name: A propos de moi
+  tpl: about.html
+  css:
+
+- id: career
+  i18n: nav.career
+  name: Parcours
+  tpl: career.html
+  css: timeline
+
+- id: skills
+  i18n: nav.skills
+  name: Compétences
+  tpl: skills.html
+  css: team
+
+- id: projects
+  i18n: nav.projects
+  name: Projets
+  tpl: projects.html
+  css: project

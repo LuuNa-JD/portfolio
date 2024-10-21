@@ -1,0 +1,115 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: "Julien Denizot - Portfolio"
+description: "Développeur Python spécialisé en santé numérique"
+keywords: julien, denizot, blog, jekyll, gh-pages, kace, github, pages, portfolio, python, django, flask, javascript, vuejs, react, angular, ionic, mobile, web, developer, devops, linux, sysadmin, itil, itil4, prince2, prince2agile, scrum, agile, pmp, project, management
+baseurl:  ''
+url: https://luuna-jd.github.io/portfolio/
+img_path: /static/assets/img/blog
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone: Europe/Paris
+highlighter: rouge
+markdown: kramdown
+excerpt_separator: <!--more-->
+
+settings:
+  rating: general
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+#
+###################################
+# Jekyll-SEO-tag settings
+####################################
+#
+lang: fr-FR
+permalink: /blog/:categories/:title/
+
+social:
+  name: Julien Denizot
+  links:
+    - https://www.linkedin.com/in/julien-denizot-dev/
+    - https://github.com/LuuNa-JD
+
+
+webmaster_verifications:
+  google: FByo2xcDR6RaUId2DdQjhAmq9YMjlEhVlL0OgK8KDzU
+  bing: FCA4B700F192727565A2354B488A3DD5
+
+#
+###################################
+# author configuration
+# index page "about me" section
+####################################
+#
+author:
+  name: Julien Denizot
+  first_name: Julien
+  last_name: Denizot
+  avatar: /static/assets/img/landing/me.jpg
+  github_username: LuuNa-JD
+  linkedin_id: julien-denizot-dev
+  facebook_username:
+  twitter:
+  email: luunz71@gmail.com
+  cv:
+
+  # skills
+  skill_icon1:
+    - name: fa-medkit
+    - name: fa-linux
+  skill_icon2:
+    - name: fa-windows
+    - name: fa-code
+  desc: "Développeur Python avec une passion pour la technologie au service de la santé. Après plusieurs années en orthopédie, j'ai choisi de me spécialiser en santé numérique et machine learning.
+  Mon ambition est de créer des solutions digitales innovantes pour améliorer la qualité des soins et accompagner les professionnels de santé dans leur quotidien."
+
+# analytics
+## google analytics
+ga:
+
+## google optimize
+go:
+  # id:
+
+## donation
+donation: off
+
+## carousels
+index_carousel: on # index page carousel switch
+blog_carousel: off  # blog page carousel switch
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+# scss
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# Build settings
+encoding: utf-8
+
+jekyll_admin:
+  hidden_links:
+#    - posts
+#    - pages
+#    - staticfiles
+#    - datafiles
+#    - configuration
+
+
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

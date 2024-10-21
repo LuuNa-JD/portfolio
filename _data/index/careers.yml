@@ -1,0 +1,88 @@
+
+  - name:
+      i18n: "freelance_dev"
+      detail: "Développeur Python Freelance"
+    desc:
+      i18n: "freelance_dev_desc"
+      detail: "Développement d'applications web avec Python, Django, et gestion d'infrastructures serveur avec Proxmox et Dokku."
+    date:
+      i18n: "freelance_dev_date"
+      detail: "2023 - Présent"
+    job:
+      i18n: "freelance_dev_role"
+      detail: "Développeur Python"
+    icon: "fa-code"
+    present: true
+    responsibilities:
+      - "Conception et développement d'applications web sur mesure en utilisant Django pour le backend et des solutions modernes pour le frontend."
+      - "Maîtrise de l'architecture serveur avec Proxmox sur des serveurs OVH pour la virtualisation et la gestion des machines virtuelles."
+      - "Déploiement d'applications avec Dokku, assurant une mise en production automatisée, conteneurisée et fiable."
+      - "Création et gestion de cloud privé avec Nextcloud, offrant des solutions de stockage et de collaboration sécurisées pour les clients."
+      - "Optimisation des performances des applications en intégrant des solutions scalables et robustes pour répondre aux besoins des entreprises."
+    technologies:
+      - "Python"
+      - "Django"
+      - "JavaScript"
+      - "Vue.js"
+      - "Dokku"
+      - "Proxmox"
+      - "Nextcloud"
+
+  - name:
+      i18n: "full_training"
+      detail: "Parcours académique - Développement Web, Python et Machine Learning"
+    desc:
+      i18n: "full_training_desc"
+      detail: "Formation complète en développement web et logiciel, avec une spécialisation en Python et Machine Learning."
+    date:
+      i18n: "full_training_date"
+      detail: "2023 - 2025"
+    job:
+      i18n: "full_training_role"
+      detail: "Étudiant"
+    icon: "fa-graduation-cap"
+    present: true
+    responsibilities:
+      - "2023 : Bootcamp Le Wagon (Canada) - Développement Web avec Ruby, JavaScript, CSS, et HTML."
+      - "2024 : Bac +4 en développement Python avec un focus sur la création d'applications complexes."
+      - "2025 : Préparation du Bac +5 en Machine Learning, avec un accent sur l'application des algorithmes dans le domaine de la santé."
+    technologies:
+      - "Ruby"
+      - "JavaScript"
+      - "Vue.js"
+      - "CSS"
+      - "HTML"
+      - "Python"
+      - "Django"
+      - "Flask"
+      - "Scikit-learn"
+      - "Pandas"
+      - "Numpy"
+      - "Matplotlib"
+
+  - name:
+      i18n: "orthopedie"
+      detail: "Orthopédiste-Orthésiste - Spécialiste en Appareillages Médicaux"
+    desc:
+      i18n: "orthopedie_desc"
+      detail: "Expert dans la conception et la fabrication d'appareillages orthopédiques sur mesure, en collaboration avec des équipes multidisciplinaires pour améliorer la mobilité et la qualité de vie des patients."
+    date:
+      i18n: "orthopedie_date"
+      detail: "2019 - 2023"
+    job:
+      i18n: "orthopedie_role"
+      detail: "Orthopédiste-Orthésiste"
+    icon: "fa-medkit"
+    present: false
+    responsibilities:
+      - "Conception et développement d'orthèses sur mesure pour des patients souffrant de troubles musculosquelettiques."
+      - "Expertise en analyse biomécanique pour adapter les appareillages en fonction des besoins fonctionnels spécifiques de chaque patient."
+      - "Collaboration étroite avec chirurgiens orthopédiques, kinésithérapeutes, et autres professionnels de santé pour assurer une prise en charge complète."
+      - "Gestion de projets complexes en orthopédie, de l’évaluation initiale à la livraison finale de l’appareillage, tout en assurant le suivi et les ajustements post-traitement."
+      - "Formation des patients et des équipes médicales à l'utilisation des dispositifs orthopédiques."
+      - "Mise en place d’un protocole d’optimisation des processus de fabrication des orthèses, réduisant le temps de production de 20 % tout en améliorant la précision."
+    technologies:
+      - "Conception assistée par ordinateur (CAO)"
+      - "Impression 3D pour la fabrication d'orthèses"
+      - "Matériaux biomédicaux avancés"
+      - "Techniques de moulage de précision"

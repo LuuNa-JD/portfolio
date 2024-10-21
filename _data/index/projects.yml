@@ -1,0 +1,46 @@
+  - name: LITReview
+    gh_user: LuuNa-JD
+    repo: LITReview-project
+    url: https://github.com/LuuNa-JD/LITReview-project
+    img: /static/assets/img/landing/litreview.png
+    desc: "Application web développée en Django pour la gestion de critiques littéraires, avec un système de notation par étoiles."
+
+  - name: Bot Discord
+    gh_user: LuuNa-JD
+    repo: project_buddy
+    img: /static/assets/img/landing/bot.jpg
+    desc: "Bot Discord capable de réaliser une veille technologique en scrappant des sites web en fonction de mots-clés comme 'IA' ou 'Python'. Il permet également de créer des projets freelance en générant des channels spécifiques et en invitant automatiquement les clients par mail."
+
+  - name: Portfolio GitHub avec Jekyll
+    gh_user: LuuNa-JD
+    repo: portfolio
+    url: https://github.com/LuuNa-JD/portfolio
+    img: /static/assets/img/landing/portfolio.png
+    desc: "Développement d'un portfolio personnel en utilisant Jekyll et Bootstrap pour présenter mes projets et compétences."
+
+  - name: CinéSelect
+    gh_user: LuuNa-JD
+    repo: CinéSelect
+    img: /static/assets/img/landing/cineselect.jpg
+    desc: "Application web de recommandation de films basée sur le modele de swipe de Tinder, développée en RoR."
+
+  - name: Generateur de galaxies
+    gh_user: LuuNa-JD
+    repo: galaxy-generator
+    img: /static/assets/img/landing/galaxy.png
+    desc: "Générateur de galaxies en 3D utilisant la librairie Three.js pour afficher des étoiles et les mettre en mouvement grace à la musique."
+
+  - name: Application d'aide a la decision en orthopédie
+    gh_user: LuuNa-JD
+    img: /static/assets/img/landing/ortho.png
+    desc: "Projet en cours de développement utilisant des algorithmes de machine learning appliqués à l'aide à la décision concernant un apparaillage ou traitement orthopédique spécifique à un patient."
+
+  - name: Cloud privé avec Nextcloud
+    gh_user: LuuNa-JD
+    img: /static/assets/img/landing/nextcloud.png
+    desc: "Mise en place d'un cloud privé sécurisé avec Nextcloud sur un serveur OVH, permettant le stockage et la collaboration en ligne."
+
+  - name: Proxmox Virtualization Server
+    gh_user: LuuNa-JD
+    img: /static/assets/img/landing/proxmox.png
+    desc: "Configuration d'un serveur de virtualisation avec Proxmox sur OVH pour gérer des machines virtuelles et optimiser les ressources serveur."
