@@ -30,11 +30,6 @@
     img: /static/assets/img/landing/galaxy.png
     desc: "Générateur de galaxies en 3D utilisant la librairie Three.js pour afficher des étoiles et les mettre en mouvement grace à la musique."
 
-  - name: Application d'aide a la decision en orthopédie
-    gh_user: LuuNa-JD
-    img: /static/assets/img/landing/ortho.png
-    desc: "Projet en cours de développement utilisant des algorithmes de machine learning appliqués à l'aide à la décision concernant un apparaillage ou traitement orthopédique spécifique à un patient."
-
   - name: Cloud privé avec Nextcloud
     gh_user: LuuNa-JD
     img: /static/assets/img/landing/nextcloud.png
@@ -44,3 +39,13 @@
     gh_user: LuuNa-JD
     img: /static/assets/img/landing/proxmox.png
     desc: "Configuration d'un serveur de virtualisation avec Proxmox sur OVH pour gérer des machines virtuelles et optimiser les ressources serveur."
+
+  - name: Application d'aide a la decision en orthopédie
+    gh_user: LuuNa-JD
+    img: /static/assets/img/landing/ortho.png
+    desc: "Projet en cours de développement utilisant des algorithmes de machine learning appliqués à l'aide à la décision concernant un apparaillage ou traitement orthopédique spécifique à un patient."
+
+  - name: Orbinet - Créateur et développeur d'une solution P2P décentralisée et privée
+    gh_user: LuuNa-JD
+    img: /static/assets/img/landing/orbitnet.jpg
+    desc: "Création d'un écosystème décentralisé où chaque utilisateur dispose d'une VM OVH privée, intégrant un cloud, une messagerie instantanée et pleins d'autres modules, tout en participant activement à la gouvernance et à la protection collective des données via un modèle collaboratif et évolutif"
