@@ -50,11 +50,6 @@
     img: /static/assets/img/landing/ortho.png
     desc: "Projet en cours de développement utilisant des algorithmes de machine learning appliqués à l'aide à la décision concernant un apparaillage ou traitement orthopédique spécifique à un patient."
 
-  # - name: Orbinet - Créateur et développeur d'une solution P2P décentralisée et privée
-  #   gh_user: LuuNa-JD
-  #   img: /static/assets/img/landing/orbitnet.jpg
-  #   desc: "Création d'un écosystème décentralisé où chaque utilisateur dispose d'une VM OVH privée, intégrant un cloud, une messagerie instantanée et pleins d'autres modules, tout en participant activement à la gouvernance et à la protection collective des données via un modèle collaboratif et évolutif"
-
   - name: Projet de fin d'études - HealthDataHubPi
     gh_user: LuuNa-JD
     img: /static/assets/img/landing/healthdatahub.png
