@@ -1,13 +1,13 @@
 
   - name:
       i18n: "freelance_dev"
-      detail: "Développeur Python Freelance"
+      detail: "Développeur Python & Santé Numérique Freelance"
     desc:
       i18n: "freelance_dev_desc"
-      detail: "Développement d'applications web avec Python, Django, et gestion d'infrastructures serveur avec Proxmox et Dokku."
+      detail: "Développement d'applications web avec Python, Django, et gestion d'infrastructures serveur avec Proxmox et Docker."
     date:
       i18n: "freelance_dev_date"
-      detail: "2023 - Présent"
+      detail: "2024 - Présent"
     job:
       i18n: "freelance_dev_role"
       detail: "Développeur Python"
@@ -16,7 +16,7 @@
     responsibilities:
       - "Conception et développement d'applications web sur mesure en utilisant Django pour le backend et des solutions modernes pour le frontend."
       - "Maîtrise de l'architecture serveur avec Proxmox sur des serveurs OVH pour la virtualisation et la gestion des machines virtuelles."
-      - "Déploiement d'applications avec Dokku, assurant une mise en production automatisée, conteneurisée et fiable."
+      - "Déploiement d'applications avec Docker, Jenkins et Traefik, assurant une mise en production automatisée, conteneurisée et fiable."
       - "Création et gestion de cloud privé avec Nextcloud, offrant des solutions de stockage et de collaboration sécurisées pour les clients."
       - "Optimisation des performances des applications en intégrant des solutions scalables et robustes pour répondre aux besoins des entreprises."
     technologies:
@@ -27,13 +27,19 @@
       - "Dokku"
       - "Proxmox"
       - "Nextcloud"
+      - "PostgreSQL"
+      - "Redis"
+      - "Nginx"
+      - "Docker"
+      - "Kubernetes"
+      - "Jenkins"
 
   - name:
       i18n: "full_training"
-      detail: "Parcours académique - Développement Web, Python et Machine Learning"
+      detail: "Parcours académique - Développement logiciel, Python et Data Engineering"
     desc:
       i18n: "full_training_desc"
-      detail: "Formation complète en développement web et logiciel, avec une spécialisation en Python et Machine Learning."
+      detail: "Formation complète en développement logiciel, avec une spécialisation en Python et Data Engineering."
     date:
       i18n: "full_training_date"
       detail: "2023 - 2025"
@@ -45,7 +51,7 @@
     responsibilities:
       - "2023 : Bootcamp Le Wagon (Canada) - Développement Web avec Ruby, JavaScript, CSS, et HTML."
       - "2024 : Bac +4 en développement Python avec un focus sur la création d'applications complexes."
-      - "2025 : Préparation du Bac +5 en Machine Learning, avec un accent sur l'application des algorithmes dans le domaine de la santé."
+      - "2025 : Préparation du Bac +5 en Data Engineering, avec un accent sur l'application du Big Data et des modeles de machines learning dans le domaine de la santé."
     technologies:
       - "Ruby"
       - "JavaScript"
@@ -59,6 +65,11 @@
       - "Pandas"
       - "Numpy"
       - "Matplotlib"
+      - "Kafka"
+      - "Spark"
+      - "Airflow"
+      - "Docker"
+      - "Kubernetes"
 
   - name:
       i18n: "orthopedie"

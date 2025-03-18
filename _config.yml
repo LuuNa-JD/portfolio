@@ -71,8 +71,7 @@ author:
   skill_icon2:
     - name: fa-windows
     - name: fa-code
-  desc: "Développeur Python avec une passion pour la technologie au service de la santé. Après plusieurs années en orthopédie, j'ai choisi de me spécialiser en santé numérique et machine learning.
-  Mon ambition est de créer des solutions digitales innovantes pour améliorer la qualité des soins et accompagner les professionnels de santé dans leur quotidien."
+  desc: "Expert en santé numérique, spécialisé en cloud, data engineering et infrastructures souveraines. Après plusieurs années en orthopédie, j’ai choisi de me consacrer au développement de solutions digitales sécurisées et interopérables pour améliorer la qualité des soins. Mon objectif est d'accompagner les professionnels de santé avec des outils innovants, performants et respectueux de l’indépendance numérique."
 
 # analytics
 ## google analytics
