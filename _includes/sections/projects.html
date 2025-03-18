@@ -7,8 +7,9 @@
   </div>
   <div class="row">
     {% assign total = site.data.index.projects | size %}
+    {% assign remainder = total | modulo: 2 %}
     {% for project in site.data.index.projects %}
-      {% if forloop.last and total divisibleby 2 == false %}
+      {% if forloop.last and remainder == 1 %}
         <div class="col-sm-6 col-sm-offset-3 wow">
       {% else %}
         <div class="col-sm-6 wow">
