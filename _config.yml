@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: "Développeur Backend, Cloud & Santé Numérique"
+title: "Julien Denizot - Portfolio"
 description: "Développeur Backend spécialisé en cybersécurité santé, cloud privé souverain et infrastructures sécurisées."
 keywords: julien, denizot, cybersanté, santé numérique, backend, python, django, fastapi, rust, cloud souverain, nextcloud, docker, proxmox, infra, devsecops, rgpd, hds, orbitnet, cybersécurité
 baseurl:  '/portfolio'
