@@ -1,4 +1,4 @@
 label: Ability
 id : cs
-aspects: Python, Rust, Javascript, Proxmox, Docker, Jenkins, Linux/Shell, Git, Nginx, Traefik, SQL, NoSQL, IPFS, Django, FastAPI, Spark, Airflow, Kafka, HuggingFace, Scikit-learn, Pandas, Numpy
-percentage: 90, 60, 60, 80, 90, 70, 80, 80, 50, 80, 80, 60, 50, 80, 70, 40, 40, 40, 60, 60, 50, 50
+aspects: Python, Rust, FastAPI, Django, SQL, NoSQL, Proxmox, Docker, Jenkins, Linux/Shell, Git, Nginx, Traefik, IPFS, Nextcloud, Matrix, HL7, FHIR, DevSecOps, Santé Numérique, Sécurité Cloud
+percentage: 90, 65, 85, 80, 80, 70, 85, 75, 80, 80, 70, 70, 65, 80, 70, 60, 60, 80, 75, 75, 75

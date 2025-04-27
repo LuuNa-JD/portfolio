@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: "Julien Denizot - Portfolio"
-description: "Développeur Python spécialisé en santé numérique"
-keywords: julien, denizot, blog, jekyll, gh-pages, kace, github, pages, portfolio, python, django, flask, javascript, vuejs, react, angular, ionic, mobile, web, developer, devops, linux, sysadmin, itil, itil4, prince2, prince2agile, scrum, agile, pmp, project, management
+title: "Julien Denizot - Développeur Backend, Cloud & Santé Numérique"
+description: "Développeur Backend spécialisé en cybersécurité santé, cloud privé souverain et infrastructures sécurisées."
+keywords: julien, denizot, cybersanté, santé numérique, backend, python, django, fastapi, rust, cloud souverain, nextcloud, docker, proxmox, infra, devsecops, rgpd, hds, orbitnet, cybersécurité
 baseurl:  '/portfolio'
 url: https://luuna-jd.github.io
 img_path: /static/assets/img/blog
@@ -61,7 +61,7 @@ author:
   linkedin_id: julien-denizot-dev
   facebook_username:
   twitter:
-  email: luunz71@gmail.com
+  email: denizot.j@hotmail.fr
   cv:
 
   # skills
@@ -71,7 +71,7 @@ author:
   skill_icon2:
     - name: fa-windows
     - name: fa-code
-  desc: "Expert en santé numérique, spécialisé en cloud, data engineering et infrastructures souveraines. Après plusieurs années en orthopédie, j’ai choisi de me consacrer au développement de solutions digitales sécurisées et interopérables pour améliorer la qualité des soins. Mon objectif est d'accompagner les professionnels de santé avec des outils innovants, performants et respectueux de l’indépendance numérique."
+  desc: "Développeur Backend & Expert en Santé Numérique, je conçois des infrastructures sécurisées et souveraines pour accompagner la transformation numérique du secteur médical. Spécialisé en cybersécurité, cloud privé et interopérabilité des données de santé, je m'engage à proposer des solutions robustes, éthiques et respectueuses du RGPD et des normes HDS."
 
 # analytics
 ## google analytics

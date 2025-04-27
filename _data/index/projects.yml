@@ -1,15 +1,38 @@
-  - name: LITReview
+  - name: PurplePi - Outil Purple Team sur Raspberry Pi
     gh_user: LuuNa-JD
-    repo: LITReview-project
-    url: https://github.com/LuuNa-JD/LITReview-project
-    img: /static/assets/img/landing/litreview.png
-    desc: "Application web développée en Django pour la gestion de critiques littéraires, avec un système de notation par étoiles."
+    img: /static/assets/img/landing/purplepi.png
+    desc: "Développement d'un dispositif portable Purple Team sur Raspberry Pi 5, destiné à la simulation d'attaques et à l'analyse défensive en environnement sécurisé. Cet outil intègre des modules de pentesting, d'audit de sécurité et de détection d'intrusions pour accompagner les stratégies de cybersécurité proactive."
 
-  - name: Bot Discord
+  - name: Application d'aide a la decision en orthopédie
+    gh_user: LuuNa-JD
+    img: /static/assets/img/landing/ortho.png
+    desc: "Développement en cours d'un logiciel d'aide à la décision médicale pour l'orthopédie, intégrant analyse clinique et sécurité des données."
+
+  - name: Cloud privé sécurisé avec Nextcloud
+    gh_user: LuuNa-JD
+    img: /static/assets/img/landing/nextcloud.png
+    desc: "Déploiement d'une solution cloud privé souveraine avec Nextcloud pour le stockage sécurisé des données."
+
+  - name: Déploiement self-hosted sécurisé
+    gh_user: LuuNa-JD
+    img: /static/assets/img/landing/self-hosted.png
+    desc: "Mise en place de services self-hosted sécurisés (Mailcow, Matrix, ERPNext) via Docker, Traefik et Authelia."
+
+  - name: Proxmox Virtualization Server
+    gh_user: LuuNa-JD
+    img: /static/assets/img/landing/proxmox.png
+    desc: "Configuration d'un serveur de virtualisation Proxmox optimisé pour gestion d'infrastructure cloud privé."
+
+  - name: Projet OrbitNet
+    gh_user: LuuNa-JD
+    img: /static/assets/img/landing/orbitnet.png
+    desc: "Plateforme souveraine pour la transformation numérique : cybersécurité santé, cloud privé sécurisé, hébergement souverain de services critiques."
+
+  - name: Bot Discord - veille technologique
     gh_user: LuuNa-JD
     repo: project_buddy
     img: /static/assets/img/landing/bot.jpg
-    desc: "Bot Discord capable de réaliser une veille technologique en scrappant des sites web en fonction de mots-clés comme 'IA' ou 'Python'. Il permet également de créer des projets freelance en générant des channels spécifiques et en invitant automatiquement les clients par mail."
+    desc: "Bot Discord pour la veille technologique et gestion automatisée de projets freelance."
 
   - name: Portfolio GitHub avec Jekyll
     gh_user: LuuNa-JD
@@ -23,34 +46,3 @@
     repo: cineselect
     img: /static/assets/img/landing/cineselect.jpg
     desc: "Application web de recommandation de films basée sur le modele de swipe de Tinder, développée en RoR."
-
-  - name: Generateur de galaxies
-    gh_user: LuuNa-JD
-    repo: galaxy-generator
-    img: /static/assets/img/landing/galaxy.png
-    desc: "Générateur de galaxies en 3D utilisant la librairie Three.js pour afficher des étoiles et les mettre en mouvement grace à la musique."
-
-  - name: Cloud privé avec Nextcloud
-    gh_user: LuuNa-JD
-    img: /static/assets/img/landing/nextcloud.png
-    desc: "Mise en place d'un cloud privé sécurisé avec Nextcloud sur un serveur OVH, permettant le stockage et la collaboration en ligne."
-
-  - name: Déploiement de solutions self-hosted (mailcow, matrix, erpnext) sous traefik, docker et authelia
-    gh_user: LuuNa-JD
-    img: /static/assets/img/landing/self-hosted.png
-    desc: "Déploiement de solutions self-hosted sous Traefik, Docker et Authelia pour garantir une sécurité et une fiabilité maximale."
-
-  - name: Proxmox Virtualization Server
-    gh_user: LuuNa-JD
-    img: /static/assets/img/landing/proxmox.png
-    desc: "Configuration d'un serveur de virtualisation avec Proxmox sur OVH pour gérer des machines virtuelles et optimiser les ressources serveur."
-
-  - name: Application d'aide a la decision en orthopédie
-    gh_user: LuuNa-JD
-    img: /static/assets/img/landing/ortho.png
-    desc: "Projet en cours de développement utilisant des algorithmes de machine learning appliqués à l'aide à la décision concernant un apparaillage ou traitement orthopédique spécifique à un patient."
-
-  - name: Projet de fin d'études - HealthDataHubPi
-    gh_user: LuuNa-JD
-    img: /static/assets/img/landing/healthdatahub.png
-    desc: "Serveur médical personnel sécurisé sur Raspberry Pi 5, permettant la gestion intelligente des données médicales personnelles, l'intégration d'analyse par Machine Learning, et le partage sécurisé avec les professionnels de santé via QR codes et protocole standardisé (FHIR)."
